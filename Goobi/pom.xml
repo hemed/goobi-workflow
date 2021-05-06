@@ -12,7 +12,7 @@
         <publicVersion>21.05</publicVersion>
         <jhove.version>1.20.1</jhove.version>
         <jackson.version>2.11.2</jackson.version>
-        <jersey.version>2.31</jersey.version>
+        <jersey.version>3.0.2</jersey.version>
         <powermock.version>2.0.7</powermock.version>
         <httpclient.version>4.5.13</httpclient.version>
         <poi.version>3.17</poi.version>
